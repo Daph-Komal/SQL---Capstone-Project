@@ -1,0 +1,30 @@
+Project Introduction: Cryptopunks NFT Sales Analysis
+Over the past few years, Non-Fungible Tokens (NFTs) have revolutionized digital asset ownership, with over $22 billion spent on NFTs in a single year. 
+These blockchain-based assets gained popularity for their unique value, artistic appeal, and speculative potential. 
+However, the NFT market faces controversies due to scams, lack of regulation, and environmental concerns. 
+Despite these challenges, the transparent nature of blockchain data presents an exciting opportunity for analysis.
+
+This project involves analyzing the Cryptopunks NFT sales dataset, which spans from January 1, 2018, to December 31, 2021. 
+Each row represents a sale, detailing key attributes such as buyer and seller addresses, transaction prices in ETH and USD, sale dates, NFT IDs, and transaction hashes.
+
+Objectives:
+
+Sales Insights:
+Analyze sales volume and identify top transactions.
+Understand day-of-week sales trends and price averages.
+
+Price Analysis:
+Determine average prices by NFT name.
+Calculate moving averages for transaction prices.
+Develop histograms and summaries of ETH price ranges.
+
+Wallet Analysis:
+Examine transaction patterns for specific wallets.
+Create tailored views, such as tracking purchases for specific buyers.
+
+Performance Metrics:
+Identify the most-sold NFTs for each month/year.
+Calculate total monthly sales volume.
+
+Estimated Value Analysis:
+Exclude outliers and compute a reliable daily average price using advanced filtering and window functions.
